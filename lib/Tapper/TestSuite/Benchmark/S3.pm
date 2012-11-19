@@ -1,13 +1,13 @@
 use strict;
 use warnings;
 package Tapper::TestSuite::Benchmark::S3;
-# git description: 2927ca4
+# git description: v4.1.0-1-g2d89e4a
 
 BEGIN {
-  $Tapper::TestSuite::Benchmark::S3::AUTHORITY = 'cpan:AMD';
+  $Tapper::TestSuite::Benchmark::S3::AUTHORITY = 'cpan:TAPPER';
 }
 {
-  $Tapper::TestSuite::Benchmark::S3::VERSION = '4.1.0';
+  $Tapper::TestSuite::Benchmark::S3::VERSION = '4.1.1';
 }
 # ABSTRACT: Measure suspend/resume cycle with external Arduino box
 
